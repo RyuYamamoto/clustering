@@ -1,1 +1,3 @@
-# clustering
+## clustering
+- k-means  
+- x-means  
